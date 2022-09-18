@@ -4,7 +4,7 @@ using namespace ultralight;
 #define WINDOW_WIDTH    900
 #define WINDOW_HEIGHT   600
 int main() {
-    std::cout << "STARt\n";
+    std::cout << "STARt NICE \n";
     auto app = App::Create();
 
 
