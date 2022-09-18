@@ -6,7 +6,7 @@ using namespace ultralight;
 int main() {
     std::cout << "STARt NICE \n";
     auto app = App::Create();
-
+    //nice
     //test to
     auto window = Window::Create(app->main_monitor(), WINDOW_WIDTH, WINDOW_HEIGHT, false,
         kWindowFlags_Titled | kWindowFlags_Resizable);
